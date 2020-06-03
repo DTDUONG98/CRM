@@ -1,0 +1,62 @@
+.body{
+  background-color: white;
+}
+.login{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: gray;
+}
+.footer{
+  background-color: gray;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.input-user{
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.island{
+  background-color: gray;
+  padding: 50px;
+}
+.inputt {
+  background-color: rgb(78, 77, 77);
+  padding: 10px;
+  width: 100%;
+  color: rgb(216, 211, 211);
+}
+.in-put {
+  padding: 10px;
+}
+.input-nd {
+  padding-bottom: 100px;
+  background-color: rgb(78, 77, 77);
+  width: 100%;
+  color: rgb(216, 211, 211);
+}
+.img-slider{
+  width: 100%;
+  height: 100%;
+}
+.island1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.island2{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.island3{
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+.island5{
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+.sticky-top{
+  background-color: rgb(252, 250, 250);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
